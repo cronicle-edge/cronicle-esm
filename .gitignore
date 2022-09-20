@@ -1,0 +1,13 @@
+node_modules
+_play.mjs
+queue
+logs
+cronicle
+cronicle-edge
+data
+cronicle.mjs
+htdocs/js
+htdocs/css
+htdocs/fonts
+archive
+package-lock.json
